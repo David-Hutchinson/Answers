@@ -1,0 +1,38 @@
+1. I'm not sure this would be judged a technical book but recently I've been reading Learn You a Haskell.
+Having been doing mostly imperative programming for the last few years, learning a functional language like 
+Haskell has been a bit mind-bending, mostly due to not being able to fall back on variables and other 
+luxuries like in many imperative languages. The book has been great so far, everything is well explained
+with each part containing plenty of clear code examples which I don't usually find useful. You should
+read just to simply learn pure functional programming, you will be forced into a new way of thinking for
+most aspects of programming and you will frequently be awestruck along the way.
+
+2. As an engineer, learning from people more experienced than me is quite exciting, as long as said 
+people will willingly impart their wisdom. 
+
+Whether I would be working on the web or mobile side of things, either would be great. With the web side
+I'd get a chance to pick up Ruby/Rails which I've been implored to look at many times while improving 
+with technologies like Mongo and AWS with which I only have fairly basic familiarity. While with the mobile,
+I feel I've learned enough from my final year project to skip over any major learning curve I feel there's 
+is still plenty to be learnt there too.
+
+3. With crypto-currencies being the new thing at the moment perhaps you could launch your own currency, 
+Intercoin maybe ?
+
+In all seriousness though, I'm not sure I'm completely qualified to give you a proper answer. However,
+at the moment, big data and analyticsis is quite popular amongst technology companies. Perhaps, using 
+analytics to analyse customer actions when using your software.
+
+4. Recently I picked up a Nexus 5 and its been great so far. I think Google have made huge leaps in the
+last few years with Android, from a developer and consumer perspective, and now they appear to be 
+focusing on reducing fragmentation which makes it even better. As for the phone itself, I can't fault it
+much, the software is excellent, it's guaranteed timely software updates for the foreseeable future and apart
+from odd speaker placing the phone design itself is flawless.
+
+Question 6 improvements
+At present the time complexity of the algorithm is O(n) where n is the size of the file. No matter what, the
+algorithm must make a single pass throug the file before completion. In terms of space the complexity 
+would be O(k) where k is the number of numbers to be chosen from the file.
+
+In terms of improving the solution I believe an N-way merge could be more time efficiently. If I remember
+correctly that method should run with a time complexity of O(nlog(n/m) where n is the number of numbers from
+m number of files. However, I believe that its time complexity would be O(n * m).
