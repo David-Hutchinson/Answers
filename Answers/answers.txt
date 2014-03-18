@@ -19,7 +19,7 @@ is still plenty to be learnt there too.
 Intercoin maybe ?
 
 In all seriousness though, I'm not sure I'm completely qualified to give you a proper answer. However,
-at the moment, big data and analyticsis is quite popular amongst technology companies. Perhaps, using 
+at the moment, big data and analytic is quite popular amongst technology companies. Perhaps, using 
 analytics to analyse customer actions when using your software.
 
 4. Recently I picked up a Nexus 5 and its been great so far. I think Google have made huge leaps in the
